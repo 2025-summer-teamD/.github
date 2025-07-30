@@ -7,6 +7,10 @@ Anima에서 AI 캐릭터를 생성하고 대화해보세요!
 
 <br><br><br><br>
 
+# ♻️ Flow
+<img width="1440" alt="flow" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/workflow.png">
+<br><br><br><br>
+
 # 🔍 Demo
 ### MainPage 
 ![ezgif-2-a98570fc0f](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/94730ba8-20de-4ab6-8857-a156d7dd84e6)
@@ -109,10 +113,6 @@ Anima에서 AI 캐릭터를 생성하고 대화해보세요!
   </tr>
 </table>
 
-<br><br><br><br>
-
-# ♻️ Flow
-<img width="1440" alt="flow" src="https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/137774867/460e3036-8674-4e4b-b844-d17852338b19">
 <br><br><br><br>
 
 # 🗄️ ERD
