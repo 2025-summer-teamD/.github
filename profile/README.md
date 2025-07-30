@@ -7,9 +7,51 @@ Anima에서 AI 캐릭터를 생성하고 대화해보세요!
 
 <br><br><br><br>
 
+# 🔍 Demo
+### MainPage 
+![ezgif-2-a98570fc0f](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/94730ba8-20de-4ab6-8857-a156d7dd84e6)
+
+### InputTitle 
+
+![ezgif-2-ac7790c603](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/81aafdb5-743b-49d9-9154-30bbd00df03c)
+
+### Loading 
+
+![ezgif-2-4c66588aa1](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/26afd317-8eba-4d47-9a5f-80a97748d753)
+
+### GuessTitle 
+
+![ezgif-2-99c8b9f0db](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/cc72851b-6f71-440d-8dbd-bb2ac87ea547)
+
+### Result
+
+![ezgif-2-2568ce5715](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/12446735-8a38-460f-ae8a-551c2b180cdc)
+
+  <details>
+  <summary>Result - Download </summary>
+
+![ezgif-1-9c99019b99](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/5c0d1eac-bec0-4fa8-bc6a-784dc9b735cb)
+
+  </details>
+  
+
+  <details>
+  <summary>Result - Share </summary>
+
+![ezgif-2-06e6fe447c](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/6534d894-b099-445f-90bf-efd6923e6690)
+  
+  </details>
+
+ 
+<details>
+<summary>Result - Newgame </summary>
+
+![ezgif-1-1ec8bf34b4](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/5086ee3e-6001-4366-b11a-1f34a7b78741)
+</details>
+
+<br><br><br><br>
+
 # 📌 System Architecture
-
-
 
 ![시스템아키텍쳐](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/systemArchitect1.png)
 
@@ -66,6 +108,7 @@ Anima에서 AI 캐릭터를 생성하고 대화해보세요!
     </td>
   </tr>
 </table>
+
 <br><br><br><br>
 
 # ♻️ Flow
@@ -76,56 +119,8 @@ Anima에서 AI 캐릭터를 생성하고 대화해보세요!
 
 <img width="677" alt="ERD" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/erd.png">
 
+
 <br><br><br><br>
-
-# 여기부터 사진 수정해야함
-
-# 🔍 Features
-### MainPage 
-![ezgif-2-a98570fc0f](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/94730ba8-20de-4ab6-8857-a156d7dd84e6)
-
-### InputTitle 
-
-![ezgif-2-ac7790c603](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/81aafdb5-743b-49d9-9154-30bbd00df03c)
-
-### Loading 
-
-![ezgif-2-4c66588aa1](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/26afd317-8eba-4d47-9a5f-80a97748d753)
-
-### GuessTitle 
-
-![ezgif-2-99c8b9f0db](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/cc72851b-6f71-440d-8dbd-bb2ac87ea547)
-
-### Result
-
-![ezgif-2-2568ce5715](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/12446735-8a38-460f-ae8a-551c2b180cdc)
-
-  <details>
-  <summary>Result - Download </summary>
-
-![ezgif-1-9c99019b99](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/5c0d1eac-bec0-4fa8-bc6a-784dc9b735cb)
-
-  </details>
-  
-
-  <details>
-  <summary>Result - Share </summary>
-
-![ezgif-2-06e6fe447c](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/6534d894-b099-445f-90bf-efd6923e6690)
-  
-  </details>
-
- 
-<details>
-<summary>Result - Newgame </summary>
-
-![ezgif-1-1ec8bf34b4](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/5086ee3e-6001-4366-b11a-1f34a7b78741)
-</details>
-<br><br><br><br>
-
-
-
-
 
 
 # 🖥️ Monitoring
