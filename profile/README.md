@@ -2,8 +2,7 @@
 
 ![home](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/home.png)
 
-### 소개
-Anima에서 AI 캐릭터를 생성하고 대화해보세요!
+### Anima에서 AI 캐릭터를 생성하고 대화해보세요!
 
 <br><br><br><br>
 
