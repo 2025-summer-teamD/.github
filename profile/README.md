@@ -128,17 +128,6 @@ Anima에서 AI 캐릭터를 생성하고 대화해보세요!
 ### Prometheus & Grafana
 <img width="1440" alt="grafana prometheus" src="https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/137774867/3179729d-c84a-447b-9b40-e695e12481bb">
 
-<br>
-
-### ELK
-![ELK](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/137774867/198deb3f-9787-4964-9135-1514bffb7d3c)
-
-<br>
-
-### K6
-<img width="1362" alt="스크린샷 2023-08-03 오후 6 33 46" src="https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/5fd4b2ec-c069-4bdb-9e8d-4dfbd0db7a85">
-<img width="1359" alt="스크린샷 2023-08-03 오후 6 34 03" src="https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/fdb6ba6c-ce27-44b0-b209-9892201fca57">
-
 
 <br><br><br><br>
 
