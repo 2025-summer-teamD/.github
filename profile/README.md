@@ -212,8 +212,8 @@ docker-compose -f docker-compose.monitoring.yml up
             </a>
         </td>
         <td width="100" align="center">
-             <a href="https://github.com/">
-                <img src="https://avatars.githubusercontent.com/u/103251717?v=4" width="60" height="60">
+             <a href="https://github.com/turtleturtely">
+                <img src="https://avatars.githubusercontent.com/u/201767269?v=4" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
@@ -274,8 +274,8 @@ docker-compose -f docker-compose.monitoring.yml up
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/tutletutley">
-                <img src="http://img.shields.io/badge/tutletutley-green?style=social&logo=github"/>
+            <a href="https://github.com/turtleturtley">
+                <img src="http://img.shields.io/badge/turtleturtley-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
