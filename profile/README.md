@@ -294,8 +294,8 @@ docker-compose -f docker-compose.monitoring.yml up
             </a>
         </td>
       <td width="100" align="center">
-            <a href="">
-                <img src=""/>
+            <a href="https://github.com/seozzik">
+                <img src="http://img.shields.io/badge/seozzik-green?style=social&logo=github"/>
             </a>
         </td>
      </tr>
