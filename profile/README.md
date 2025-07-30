@@ -226,7 +226,7 @@ docker-compose -f docker-compose.monitoring.yml up
             </a>
         </td>
                <td width="100" align="center">
-             <a href="https://github.com/turtleturtely">
+             <a href="https://github.com/turtleturtley">
                 <img src="https://avatars.githubusercontent.com/u/201767269?v=4" width="60" height="60">
             </a>
         </td>
