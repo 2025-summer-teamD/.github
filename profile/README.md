@@ -7,7 +7,7 @@
 <br><br><br><br>
 
 # ♻️ Flow
-<img width="1440" alt="flow" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/workflow.png">
+<img width="1440" alt="flow" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/workflow2.png">
 <br><br><br><br>
 
 # 🔍 Demo
