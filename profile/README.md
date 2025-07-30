@@ -248,6 +248,11 @@ Anima에서 AI 캐릭터를 생성하고 대화해보세요!
                 <img src=""/>
             </a>
         </td>
+      <td width="100" align="center">
+            <a href="">
+                <img src=""/>
+            </a>
+        </td>
      </tr>
     </tbody>
 </table>
