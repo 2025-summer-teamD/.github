@@ -214,13 +214,12 @@ Relay Sketch🌞
     </tr>
     <tr>
         <th>Name</th>
-        <td width="100" align="center">이규현</td>
-        <td width="100" align="center">백동훈</td>
-        <td width="100" align="center">박세종</td>
-        <td width="100" align="center">김진서</td>
-        <td width="100" align="center">윤주원</td>
-        <td width="100" align="center">이서인</td>
-        <td width="100" align="center">전병선</td>
+        <td width="100" align="center">이주광</td>
+        <td width="100" align="center">최종희</td>
+        <td width="100" align="center">송준상</td>
+        <td width="100" align="center">백현준</td>
+        <td width="100" align="center">박민정</td>
+        <td width="100" align="center">김서연</td>
     </tr>
     <tr>
         <th>Position</th>
@@ -247,44 +246,37 @@ Relay Sketch🌞
             Backend<br>
             DevOps<br>
         </td>
-        <td width="150" align="center">
-            Backend<br>
-            DevOps<br>
-        </td>
     </tr>
     <tr>
         <th>GitHub</th>
         <td width="100" align="center">
-            <a href="https://github.com/Mayreeel">
-                <img src="http://img.shields.io/badge/Mayreeel-green?style=social&logo=github"/>
+            <a href="">
+                <img src=""/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/raceStarter">
-                <img src="http://img.shields.io/badge/raceStarter-green?style=social&logo=github"/>
+            <a href="">
+                <img src=""/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/sejongpark">
-                <img src="http://img.shields.io/badge/sejongpark-green?style=social&logo=github"/>
+            <a href="">
+                <img src=""/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/meem3443">
-                <img src="http://img.shields.io/badge/meem3443-green?style=social&logo=github"/>
+            <a href="">
+                <img src=""/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/dleogh476">
-                <img src="http://img.shields.io/badge/dleogh476-green?style=social&logo=github"/>
-         </td>
+            <a href="">
+                <img src=""/>
+            </a>
+        </td>
         <td width="100" align="center">
-            <a href="https://github.com/leeseoin">
-                <img src="http://img.shields.io/badge/leeseoin-green?style=social&logo=github"/>
-         </td>
-        <td width="100" align="center">
-            <a href="https://github.com/wjsqudtjs2">
-                <img src="http://img.shields.io/badge/wjsqudtjs2-green?style=social&logo=github"/>
+            <a href="">
+                <img src=""/>
             </a>
         </td>
      </tr>
