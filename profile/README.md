@@ -157,6 +157,62 @@ Anima에서 AI 캐릭터를 생성하고 대화해보세요!
 
 <br><br><br><br>
 
+## 🚀 시작하기
+
+### 개발 환경 설정
+
+```bash
+# 의존성 설치
+npm install
+
+# 환경변수 설정
+cp .env.example .env
+# .env 파일 편집 필요
+
+# 데이터베이스 마이그레이션
+npx prisma migrate dev
+
+# 개발 서버 시작 (트레이싱 비활성화)
+npm run dev
+```
+
+### 환경변수 설정
+
+```bash
+# 서버 설정
+PORT=3001
+NODE_ENV=development
+
+# 트레이싱 설정 (개발: false, 운영: true)
+ENABLE_TRACING=false
+OTEL_SERVICE_NAME=character-chat-backend
+JAEGER_ENDPOINT=http://localhost:4318/v1/traces
+
+# Clerk 인증
+CLERK_PUBLISHABLE_KEY=your_key
+CLERK_SECRET_KEY=your_secret
+
+# 데이터베이스
+DATABASE_URL="postgresql://user:pass@localhost:5432/db"
+
+# Google Cloud
+GOOGLE_APPLICATION_CREDENTIALS=./google-credentials/service-account.json
+GCS_BUCKET_NAME=your-bucket
+```
+
+### Docker 환경
+
+```bash
+# 개발 환경 (트레이싱 비활성화)
+docker-compose -f docker-compose.dev.yml up
+
+# 운영 환경 (트레이싱 활성화)
+docker-compose up
+
+# 모니터링 스택 (Traefik + Jaeger + ELK + Grafana)
+docker-compose -f docker-compose.monitoring.yml up
+```
+
 # 👥 Member
 
 <table width="1000">
