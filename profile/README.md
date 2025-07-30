@@ -1,4 +1,4 @@
-# ![로고](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png) Anima
+<img src="[https://github.com/octocat.png](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png)" alt="로고" height="20" style="vertical-align: middle;" /> Anima
 
 ![최최종로고](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/137774867/4318b363-f86b-4aae-988a-b772f262e8ee)
 
