@@ -83,7 +83,6 @@
     <th>Frontend</th>
     <th>Backend</th>
     <th>DevOps</th>
-    <th>DataBase & Storage</th>
     <th>Monitoring</th>
     <th>Others</th>
   </tr>
@@ -103,11 +102,9 @@
       <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"><br>
     </td>
     <td align=center>
+      <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"><br>
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br>
       <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"><br>
-    </td>
-    <td align=center>
-      <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"><br>
     </td>
     <td align=center>
       <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=black"><br>
