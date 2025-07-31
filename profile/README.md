@@ -2,7 +2,7 @@
 
 ![home](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/home.png)
 
-### Anima에서 AI 캐릭터를 생성하고 대화해보세요!
+## Anima에서 AI 캐릭터를 생성하고 대화해보세요!
 
 <br><br><br><br>
 
@@ -97,6 +97,7 @@
       <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"><br>
       <img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white"><br>
       <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white"><br>
     </td>
     <td align=center>
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br>
@@ -120,8 +121,20 @@
 
 # 🖥️ Monitoring
 
-### Prometheus & Grafana
-<img width="1440" alt="grafana prometheus" src="https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/137774867/3179729d-c84a-447b-9b40-e695e12481bb">
+### Prometheus
+<img width="1440" alt="prometheus" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/prometheus.png">
+
+### Node Exporter
+<img width="1440" alt="nodeexporter" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/nodeexporter.png">
+
+### Express.js
+<img width="1440" alt="express" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/express.png">
+
+### Traefik
+<img width="1440" alt="traefik" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/traefik.png">
+
+### cAdvisor
+<img width="1440" alt="cadvisor" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/cadvisor.png">
 
 
 <br><br><br><br>
