@@ -83,7 +83,7 @@
       <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"><br>
       <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"><br>
       <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"><br>
+      <img src="https://img.shields.io/npm/last-update/bullmq"><br>
       <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"><br>
       <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"><br>
     </td>
