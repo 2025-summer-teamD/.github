@@ -1,19 +1,4 @@
-<table>
-  <tr>
-    <td><img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png" width="80" /></td>
-    <td><h2 style="margin-left: 10px;">Anima</h2></td>
-  </tr>
-</table>
-
-<table border="0">
-  <tr>
-    <td><img src="https://example.com/image.png" width="40" /></td>
-    <td style="vertical-align: middle; padding-left: 12px;">
-      <span style="font-size: 28px; font-weight: bold;">Hi, I'm 서연 😎</span>
-    </td>
-  </tr>
-</table>
-
+<img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/readme_logo.png" width="50" style="vertical-align: middle;" />
 
 ![home](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/home.png)
 
