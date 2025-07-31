@@ -1,4 +1,4 @@
-<img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/readme_logo.png" width="50" style="vertical-align: middle;" />
+<img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/readme_logo.png" width="100" style="vertical-align: middle;" />
 
 ![home](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/home.png)
 
