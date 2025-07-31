@@ -1,7 +1,9 @@
-<p align="left">
-  <img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png" width="100" alt="로고"/>
-  <h2 style="display:inline-block; vertical-align:middle; margin-left:10px;">Anima</h2>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png" width="80" /></td>
+    <td><h2 style="margin-left: 10px;">Anima</h2></td>
+  </tr>
+</table>
 
 ![home](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/home.png)
 
