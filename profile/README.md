@@ -1,8 +1,6 @@
 <p align="left">
   <img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png" width="100" alt="로고"/>
-  <span style="font-size:48px; font-weight:bold; margin-left:10px;">
-    Anima
-  </span>
+  <h2 style="display:inline-block; vertical-align:middle; margin-left:10px;">Anima</h2>
 </p>
 
 ![home](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/home.png)
