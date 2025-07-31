@@ -5,6 +5,16 @@
   </tr>
 </table>
 
+<table border="0">
+  <tr>
+    <td><img src="https://example.com/image.png" width="40" /></td>
+    <td style="vertical-align: middle; padding-left: 12px;">
+      <span style="font-size: 28px; font-weight: bold;">Hi, I'm 서연 😎</span>
+    </td>
+  </tr>
+</table>
+
+
 ![home](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/home.png)
 
 ### Anima에서 AI 캐릭터를 생성하고 대화해보세요!
