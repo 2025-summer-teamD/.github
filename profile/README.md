@@ -116,6 +116,10 @@
 ### cAdvisor
 <img width="1440" alt="cadvisor" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/cadvisor.png">
 
+<br><br><br><br>
+
+# Caching
+### 너무 빨리 업데이트 되지 않는 정보이면서, API 호출이 잦은 내 캐릭터 목록을 캐싱하였다. Redis가 가장 유명해서 Redis를 사용하였다. (이유 제대로 적기)
 
 <br><br><br><br>
 
