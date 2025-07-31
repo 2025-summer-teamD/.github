@@ -6,10 +6,6 @@
 
 <br><br><br><br>
 
-# ♻️ Flow
-<img width="1440" alt="flow" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/workflow2.png">
-<br><br><br><br>
-
 # 🔍 Demo
 ### MainPage 
 ![ezgif-2-a98570fc0f](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/94730ba8-20de-4ab6-8857-a156d7dd84e6)
@@ -118,6 +114,10 @@
   </tr>
 </table>
 
+<br><br><br><br>
+
+# ♻️ Work Flow
+<img width="1440" alt="flow" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/workflow2.png">
 <br><br><br><br>
 
 # 🗄️ ERD
