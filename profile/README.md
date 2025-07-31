@@ -1,4 +1,4 @@
-<img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png" alt="로고" height="20" style="vertical-align: middle;" /> # Anima
+<img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png" alt="로고" height="17" style="vertical-align: middle;" /> Anima
 
 ![home](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/home.png)
 
