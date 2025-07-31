@@ -123,12 +123,6 @@
 <img width="1088" alt="API명세서" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/apidocs.png">
 <br><br><br><br>
 
-# 📥 CD
-
-![CD](https://github.com/2023-Summer-Bootcamp-Team-B/RelaySketch/assets/112528747/a2c5465c-71ec-4d08-a519-f8b9195193bf)
-
-<br><br><br><br>
-
 ## 🚀 시작하기
 
 ### 개발 환경 설정
