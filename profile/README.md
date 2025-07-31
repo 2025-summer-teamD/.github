@@ -88,12 +88,12 @@
       <img src="https://img.shields.io/badge/Cloud_SQL-003F88?style=for-the-badge&logo=googlecloud&logoColor=white">
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br>
       <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+      <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white"><br>
     </td>
     <td align=center>
       <img src="https://img.shields.io/badge/node%20exporter-90C53F?style=for-the-badge&logo=prometheus&logoColor=black"><br>
       <img src="https://img.shields.io/badge/express.js%20server-000000?style=for-the-badge&logo=express&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white"><br>
       <img src="https://img.shields.io/badge/cAdvisor-lightgray?style=for-the-badge"><br>
     </td>
     <td align=center>
