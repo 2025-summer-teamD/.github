@@ -69,6 +69,8 @@
     <th>Backend</th>
     <th>DevOps</th>
     <th>Monitoring</th>
+    <th>Database</th>
+    <th>AI</th>
     <th>Others</th>
   </tr>
   <tr>
@@ -83,21 +85,28 @@
       <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"><br>
       <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"><br>
       <img src="https://img.shields.io/badge/BullMQ-Queue--Jobs-blue"><br>
-      <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"><br>
       <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"><br>
     </td>
     <td align=center>
-      <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+      <img src="https://img.shields.io/badge/Cloud_SQL-003F88?style=for-the-badge&logo=googlecloud&logoColor=white">
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br>
       <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
     </td>
     <td align=center>
-      <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=black"><br>
-      <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black"><br>
-      <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/node%20exporter-90C53F?style=for-the-badge&logo=prometheus&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/express.js%20server-000000?style=for-the-badge&logo=express&logoColor=white"><br>
       <img src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/cAdvisor-lightgray?style=for-the-badge"><br>
+    </td>
+    <td align=center>
+      <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+    </td>
+    <td align=center>
+      <img src="https://img.shields.io/badge/Gemini-Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white">
+      <img src="https://img.shields.io/badge/Perplexity-AI-000000?style=for-the-badge&logo=ai&logoColor=white">
     </td>
     <td align=center>
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br>
@@ -120,9 +129,6 @@
 
 
 # 🖥️ Monitoring
-
-### Prometheus
-<img width="1440" alt="prometheus" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/prometheus.png">
 
 ### Node Exporter
 <img width="1440" alt="nodeexporter" src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/nodeexporter.png">
