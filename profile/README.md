@@ -1,4 +1,4 @@
-<img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png" alt="로고" height="20" style="vertical-align: middle;" /> Anima
+<img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png" alt="로고" height="20" style="vertical-align: middle;" /> # Anima
 
 ![home](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/home.png)
 
@@ -93,7 +93,6 @@
     </td>
     <td align=center>
       <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"><br>
-      <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white"><br>
     </td>
     <td align=center>
       <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=black"><br>
