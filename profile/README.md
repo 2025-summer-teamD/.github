@@ -1,4 +1,10 @@
-<img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png" alt="로고" height="17" style="vertical-align: middle;" /> Anima
+<img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png" alt="로고" height="17" style="vertical-align: middle;" />
+<p align="left">
+  <img src="https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/logo.png" width="100" alt="로고"/>
+  <span style="font-size:28px; font-weight:bold; margin-left:10px;">
+    Anima
+  </span>
+</p>
 
 ![home](https://github.com/2025-summer-teamD/frontend/blob/develop/public/assets/home.png)
 
