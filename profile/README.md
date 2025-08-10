@@ -143,26 +143,54 @@ npm run dev
 
 ### 환경변수 설정
 
+#### backend
+
 ```bash
-# 서버 설정
-PORT=3001
-NODE_ENV=development
+CLERK_SECRET_KEY=
 
-# 트레이싱 설정 (개발: false, 운영: true)
-ENABLE_TRACING=false
-OTEL_SERVICE_NAME=character-chat-backend
-JAEGER_ENDPOINT=http://localhost:4318/v1/traces
+POSTGRES_USER=
+POSTGRES_PASSWORD=
+POSTGRES_DB=
+DATABASE_URL=
 
-# Clerk 인증
-CLERK_PUBLISHABLE_KEY=your_key
-CLERK_SECRET_KEY=your_secret
+EXPRESS_PORT=
+NODE_ENV=
 
-# 데이터베이스
-DATABASE_URL="postgresql://user:pass@localhost:5432/db"
+REDIS_URL=
 
-# Google Cloud
-GOOGLE_APPLICATION_CREDENTIALS=./google-credentials/service-account.json
-GCS_BUCKET_NAME=your-bucket
+GOOGLE_APPLICATION_CREDENTIALS=
+GOOGLE_CLOUD_PROJECT=
+GOOGLE_CLOUD_REGION=
+
+GOOGLE_API_KEY=
+GOOGLE_CX=
+
+GCS_BUCKET_NAME=
+PERPLEXITY_API_KEY=
+
+REDIS_ENDPOINT=
+REDIS_PASSWORD=
+BASE_URL=
+
+GEMINI_API_KEY=
+
+XI_API_KEY=
+
+//베포용
+LETSENCRYPT_EMAIL=
+DOMAIN=
+DB_USER=
+DB_PASSWORD=
+DB_NAME=
+INSTANCE_CONNECTION_NAME=
+DOCKER_HUB_USERNAME=
+```
+
+#### frontend
+
+```bash
+VITE_CLERK_PUBLISHABLE_KEY=
+VITE_API_BASE_URL=
 ```
 
 ### Docker 환경
