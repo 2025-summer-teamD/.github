@@ -66,8 +66,8 @@
       <img src="https://img.shields.io/badge/traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white"><br>
     </td>
     <td align=center>
-      <img src="https://img.shields.io/badge/node%20exporter-90C53F?style=for-the-badge&logo=prometheus&logoColor=black"><br>
-      <img src="https://img.shields.io/badge/express.js%20server-000000?style=for-the-badge&logo=express&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"><br>
       <img src="https://img.shields.io/badge/cAdvisor-lightgray?style=for-the-badge"><br>
     </td>
     <td align=center>
